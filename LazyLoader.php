@@ -35,5 +35,5 @@ class LazyLoader{
 		return spl_autoload_register(__NAMESPACE__ .'\LazyLoader::autoload');
 	}
 }
-
+ 
 $LazyLoader = new LazyLoader;
