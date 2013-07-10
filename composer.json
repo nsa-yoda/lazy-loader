@@ -1,0 +1,17 @@
+{
+    "name": "jsanc623/lazyloader",
+    "description": "A fast, strict lazy loader.",
+    "license": "MIT",
+    "require": {
+        "jsanc623/lazyloader": "1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Juan Sanchez",
+            "email": "juan.sanchez@juanleonardosanchez.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
