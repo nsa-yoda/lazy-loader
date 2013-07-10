@@ -1,9 +1,9 @@
 {
-    "name": "jsanc623/lazyloader",
+    "name": "jsanc623/LazyLoader",
     "description": "A fast, strict lazy loader.",
     "license": "MIT",
     "require": {
-        "jsanc623/lazyloader": "1.0.0"
+        "jsanc623/LazyLoader": "1.0.0"
     },
     "authors": [
         {
