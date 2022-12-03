@@ -3,7 +3,7 @@
     "description": "A fast, strict lazy loader.",
     "license": "MIT",
     "require": {
-        "nsa-yoda/LazyLoader": "1.0.0"
+        "nsa-yoda/lazyloader": "1.0.0"
     },
     "authors": [
         {
