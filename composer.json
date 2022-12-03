@@ -1,9 +1,9 @@
 {
-    "name": "jsanc623/LazyLoader",
+    "name": "nsa-yoda/LazyLoader",
     "description": "A fast, strict lazy loader.",
     "license": "MIT",
     "require": {
-        "jsanc623/LazyLoader": "1.0.0"
+        "nsa-yoda/LazyLoader": "1.0.0"
     },
     "authors": [
         {
